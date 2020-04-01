@@ -1,0 +1,129 @@
+body {
+       
+        background-image: url(https://lh3.googleusercontent.com/ozPSKljvDK1Pdnoi8FwSPYsstK2UawOUsRA1yobR1m6n1gVbA-MbEeTSfh-logny5Yd18cbO8MdLWYaMga3t1yCGjTtuwo2pAHaIDoMtmUXzsY8s9yqnDjm7FJQ35OOEamo5gMwLQbXJY8E9xxMxF8OYOfAvAx16q_MxvqAv5W7eBsAwCdAjZu54--AIOag-CzECoZCaPRxE2Yj3g2IBu97V27iKxhzn5iNv10Stapx-CfwBMMydHe2hsH-Uv-GnnEvIQTUiXAD6rXzruj2pJUD2psrajjeK9wUjIPSoZFrz71oz622Udud5lTAuyxq0ucHvJf9p3KikbsH_tDHTF3hqcpEX17tgcgaWWagy4bCTwm-O5yIK9sn4kIGyQQpv4ZZVaTgPjrbobyUtpe1BCh1xd1ICJeGnYucHiOpDDP4QQ5O90oM_ChwXpBqWefB69uH0HTGKoa9fVbSiZWyngJ4io2aQ1iEkYmVPEPW9coHKMkSJMarwJcX0Uva4r6eSFsVJrA7DDkj8ZkTU04OuSgym4huvGdZRNtUlaQzkOnV8_S2x-3uQMQY4aPcYbpl993qVvmeVUSLkjJDz9gJ6XUkoOmoHNWoog_-QVGZRkc5587OqkNYt3n4mNGY6VzxruLzV02BKl_9eQYUgJ1l56l6RTkb4yRBAkNUC4K2O9uuB8If-rzOfRMnIQWTm=w2106-h1579-no);
+        background-size: cover;
+        border: 2px;       
+}
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+
+#navbar{
+	background-color:rgb(255, 217, 197);
+	color:#fff;
+	padding:10;
+}
+
+#navbar1{
+	background-color:rgb(255, 79, 111);
+	color:#fff;
+	list-style: none;
+	text-align: center;
+	padding: 0.5px;
+	padding-top: 15px;
+}
+
+#navbar1 ul li{
+	display:inline-block;
+	padding-right: 70px;
+}
+
+
+#navbar1 a{
+	color:#fff;
+	text-decoration: none;
+	font-size:19px;
+	padding-right:10px;
+
+}
+
+h1 {
+        text-align: center;
+        font-style: normal;
+        font-family: 'Indie flower' ;
+        font-size: 40px;
+        font-weight: bold;
+        color: white;
+}
+
+p {
+        text-align: center;
+        font-family: 'Indie flower' ;
+        text-size-adjust: 10px;
+        text-emphasis-color: white;
+        color: white;
+
+}    
+p:hover {
+        color: rgb(255, 79, 111);
+
+}
+.input-field:hover {
+        background-color: black;
+
+}
+#buttonid:hover {
+        background-color: black;
+}
+h4 {
+        text-align: center;
+        font-family: sans-serif;
+        font-family: 'Indie flower' ;
+        text-decoration-color: white;
+        font-size: 20px;
+        color: white;
+
+}
+
+.submitbutton {
+        text-align: center;
+        font-family: 'Indie flower' ;
+}
+
+.input-field {
+        width: 300px;
+        height: 20px;
+        padding: 2px;
+        font-family: 'Indie flower';
+        font-size: larger;
+        font-weight: 400;
+}
+
+#buttonid {
+        width: 400px;
+        height: 50px;
+        color:white;
+        background-color: rgb(255, 79, 111);
+}
+a {
+        color: black;
+
+}
+a:link {
+        color: white;
+        
+
+}
+a:hover {
+        color: white;
+
+}
+
+#links {
+        background-color:transparent;
+        display: flex;
+        align-items: center;
+        padding: 5px;
+        font-family: 'Indie Flower';
+        font-weight: bolder;
+        justify-content: center;
+
+}
+#navbar{
+        background-color:rgb(255, 217, 197);
+        color:#fff;
+        padding:10;
+}
+    
